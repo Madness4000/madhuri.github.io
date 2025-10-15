@@ -1,0 +1,11 @@
+title: Madhuri Singh
+email: madhuri.states@gmail.com
+domain: madhuri.github.io
+description: >
+  Welcome to my page, I am currently pursuing a PhD in Computer Science, advised by Dr. Mark Riedl at the Georgia Institute of Technology. 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://madhurisingh.com 
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
