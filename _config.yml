@@ -35,7 +35,6 @@ home_content: |
   - [Google Scholar](https://scholar.google.com/citations?user=eNeMEbQAAAAJ&hl=en)
 
 
-baseurl: "" # the subpath of your site, e.g. /blog
 url: https://madhurisingh.com 
 # remote_theme: pages-themes/midnight@v0.2.0
 theme: minima
