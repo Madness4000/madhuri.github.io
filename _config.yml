@@ -36,8 +36,8 @@ home_content: |
 
 
 url: https://madhurisingh.com 
-# remote_theme: pages-themes/midnight@v0.2.0
-theme: minima
+remote_theme: pages-themes/midnight@v0.2.0
+# theme: minima
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
