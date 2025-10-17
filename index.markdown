@@ -6,7 +6,7 @@ layout: default
 ---
 
 <!-- Add a profile image. Use the site-root path for the image. -->
-Welcome to my page, I am currently pursuing a PhD in Computer Science, advised by Dr. Mark Riedl at the Georgia Institute of Technology. 
+Welcome to my page, I am pursuing a PhD in Computer Science, advised by Dr. Mark Riedl at the Georgia Institute of Technology. 
 
 <!-- ![Madhuri](/assets/madhuriimage.jpg){:alt="Madhuri"} -->
 <img src="./assets/madhuriimage.jpg" class="center">
